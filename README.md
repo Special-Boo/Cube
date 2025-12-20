@@ -1,20 +1,20 @@
 # Cube
-Cube-Transparent-Rotatable
+Cube-Transparent-Rotatable  
 
-[ This application uses a global keyboard hook,
-only for local hotkeys,
-does not log, store, or transmit any input.
-If this is a concern,
-modify codes - to without keyboard hooks ]
+[ This application uses a global keyboard hook,  
+only for local hotkeys,  
+does not log, store, or transmit any input.  
+If this is a concern,  
+modify codes - to without keyboard hooks ]  
 
 
-박스 창 움직이기(Shift + 드래그)
-박스 닫기(Shift + 오른클릭 -> Close)
-박스 회전[(4, 6, 8, 2) (왼, 오, 위, 아래)]
-박스 회전 리셋(5)
+박스 창 움직이기(Shift + 드래그)  
+박스 닫기(Shift + 오른클릭 -> Close)  
+박스 회전[(4, 6, 8, 2) (왼, 오, 위, 아래)]  
+박스 회전 리셋(5)  
 
-혹은 커스텀
+혹은 커스텀  
 
-needs python- (my ver. was 3.13.0)
-ask to who knows python well
-no exe distribution (for securty)
+needs python- (my ver. was 3.13.0)  
+ask to who knows python well  
+no exe distribution (for securty)  
