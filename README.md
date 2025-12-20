@@ -1,10 +1,8 @@
 # Cube
 Cube-Transparent-Rotatable
 
-[ This application uses a global keyboard hook
-only for local hotkeys,
-does not log, store, or transmit any input
-
+[ This application uses a global keyboard hook only for local hotkeys,
+does not log, store, or transmit any input.
 If this is a concern,
 modify codes - to without keyboard hooks ]
 
