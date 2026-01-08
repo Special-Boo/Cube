@@ -1,5 +1,5 @@
 # Cube
-GridCube-Transparent (without shareing original source github link,- think exe code injector by attacker,- and imagine your wallet)
+GridCube-Transparent
 
 
 
