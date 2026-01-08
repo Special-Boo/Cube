@@ -1,6 +1,7 @@
 # Cube
 GridCube-Transparent
 
+오른쪽 Release 탭 참고 (exe 실행)
 
 concerning security issue,  
 recommend virus scan, before using 'EXE' file (i recommend [use exe file with safe PC environment]) - see description below
